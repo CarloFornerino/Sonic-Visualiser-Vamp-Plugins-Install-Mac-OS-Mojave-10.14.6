@@ -11,4 +11,5 @@ https://www.vamp-plugins.org/download.html#install
     The Library folders are hidden by default; see here for details of how to show them
     
 This gave me a plugin loading error: vamp plugin image error.
-The fix was to install aubio from the Terminal using brew install aubio.
+The fix was to install aubio from the Terminal using:
+brew install aubio
